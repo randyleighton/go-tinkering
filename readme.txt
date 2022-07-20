@@ -1,1 +1,0 @@
-https://zetcode.com/golang/basics/
